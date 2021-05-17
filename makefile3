@@ -1,0 +1,2 @@
+fastblur_p3: fastblur_p3.cu
+	nvcc fastblur_p3.cu -o fastblur_p3
